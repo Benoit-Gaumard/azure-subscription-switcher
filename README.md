@@ -1,5 +1,7 @@
 # azure-subscription-switcher
-PowerShell  Script to quickly switch between subscriptions
 
-## Further reading
-Here are some more details: https://www.azureblue.io/how-to-quickly-switch-between-azure-subscriptions/
+## 🗒️ Description
+A PowerShell script to quickly switch between subscriptions
+
+## 🌐 Further reading
+Here are some more details: https://benoitgaumard.fr/NewSite/2024/09/26/azure-subscription-switcher/
