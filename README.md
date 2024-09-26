@@ -1,6 +1,6 @@
 # azure-subscription-switcher
 
-## 🗒️ Description
+## 🔍 Description
 A PowerShell script to quickly switch between subscriptions
 
 ## 🌐 Further reading
